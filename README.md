@@ -21,3 +21,13 @@ https://www.youtube.com/watch?v=PKjbBQ0PBCQ
 
 ### Todo
 
+ * Design
+     + [ ] 피그마
+         - [ ] point 9 dots
+         - [ ] `using dots` input 
+         - [ ] `using slopes` input
+         - [ ] lines list? (0, Inf., ±1, ±2, ±½)
+         - [ ] Gen btn
+
+ * Function
+     - [ ] enable init with dragging
